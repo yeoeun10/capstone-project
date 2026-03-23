@@ -1,24 +1,24 @@
 # capstone-project
 
-## 📌 Project Title
+## Project Title
 Sleep deprivatin effects on adolscents 
 
-## 📖 Overview
+## Overview
 This project investigates how important sleep is, especially in adolescents.
 
 ## ❓ Research Question
 How does sleep deprivation affect memory, focus, and academic performance in teenagers?
 
-## 🧪 Method
+## Method
 - Survey conducted among students
 - Data collected and analyzed
 - Informations from different articles and videos
 
-## 📊 Results
+## Results
 
 
 ## 📁 Files
 -
 
-## 👩‍🎓 Author
+## Author
 Sally Choi
