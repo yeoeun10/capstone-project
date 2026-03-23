@@ -1,5 +1,4 @@
 # capstone-project
-# Capstone Project
 
 ## 📌 Project Title
 Sleep deprivatin effects on adolscents 
