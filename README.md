@@ -56,16 +56,19 @@ Homework
 Gaming or watching videos
 
 ## Stages of Sleep
-1. Light sleep N1
+1. Light sleep N1:
 
 Dozing off phase, lasting only for a while, heart rate & brain slows down. Alpha brain waves shift into theta waves. So we end up waking up easily in this phase.
-2. Deeper light sleep N2
+
+2. Deeper light sleep N2:
 
 Deep sleep but not dreaming yet. The cycle lasts for 20 min. Body temp drops, brain eases down, heart rate slows down too. Learning and memory. “Brian’s housekeeping stage” 
-3. Deep sleep N3
+
+3. Deep sleep N3:
 
 Your brain shows slow delta waves, the body focuses on repair, growth hormones, surge, muscles heal, and immune systems heal for recovery. Crucial for feeling refreshed. No deep sleep= no energy.
-4. REM sleep
+
+4. REM sleep:
 
 90 minutes after you fall asleep. This is when you dream. Vivid dreams happen here, but it also strengthens learning, creativity, and emotional processing.
 
@@ -79,7 +82,7 @@ Your brain shows slow delta waves, the body focuses on repair, growth hormones, 
 
 
 ## 📁 Files
--
+-[survey-questions](https://docs.google.com/document/d/1wS7VfqL8wA5SGah4yboAIGgFp3SRAIEZnnQSWVkgH1k/edit?tab=t.wh2rya2fgclv)
 
 ## Author
 Sally Choi
