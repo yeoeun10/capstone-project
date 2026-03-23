@@ -21,6 +21,7 @@ Lower academic performance
 Sleep helps the brain organize memories, which is important for studying and learning new material.
 
 Daytime Tiredness
+
 Lack of sleep often causes:
 Feeling very tired during school
 Difficulty staying awake
@@ -28,6 +29,7 @@ Less motivation to participate in class
 This can make learning much harder.
 
 Effects on Mood and Mental Health
+
 Sleep deprivation can also affect emotions.
 Adolescents who don’t get enough sleep may experience:
 Irritability
@@ -36,6 +38,7 @@ Mood swings
 Increased risk of anxiety or sadness
 
 Effects on Physical Health
+
 Sleep is also important for the body’s development.
 Not getting enough sleep may lead to:
 Weakened immune system (getting sick more often)
@@ -46,6 +49,7 @@ Teenagers naturally have a later body clock, a shift related to the scientific c
 Because of this:
 Teens feel sleepy later at night
 But they still have to wake up early for school
+
 Other factors include:
 Phones and social media
 Homework
