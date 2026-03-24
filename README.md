@@ -72,8 +72,18 @@ Your brain shows slow delta waves, the body focuses on repair, growth hormones, 
 
 90 minutes after you fall asleep. This is when you dream. Vivid dreams happen here, but it also strengthens learning, creativity, and emotional processing.
 
+## Effects of Sleep Deprivation on the Brain
+Sleep deprivation affects different regions of the brain:
 
-## Method
+| Brain Region        | Normal Function              | Effects of Sleep Deprivation              |
+|--------------------|------------------------------|-------------------------------------------|
+| Prefrontal Cortex  | Judgment, focus, logic       | Decreased activity; poor decision-making  |
+| Hippocampus        | Forming new memories         | Difficulty learning; memory disruption    |
+| Amygdala           | Emotional processing         | Over-reactive; increased anxiety          |
+| Visual Cortex      | Processing sight             | Reduced signaling; possible hallucinations|
+
+
+## Sources
 - Survey conducted among students
 - Data collected and analyzed
 - Informations from different articles and videos
