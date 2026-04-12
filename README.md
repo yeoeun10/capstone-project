@@ -90,7 +90,6 @@ During sleep, the brain strengthens connections between neurons (called Memory c
 
 - Memory Consolidation is when your brain takes new information you've received during the day and stores them into long-term memory.
 
-What to research:
 
 ## Sources
 - Survey conducted among students
